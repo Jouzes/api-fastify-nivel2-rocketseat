@@ -1,0 +1,31 @@
+{
+  "name": "api-fastify-nivel2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jouzes/api-fastify-nivel2-rocketseat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Jouzes/api-fastify-nivel2-rocketseat/issues"
+  },
+  "homepage": "https://github.com/Jouzes/api-fastify-nivel2-rocketseat#readme",
+  "devDependencies": {
+    "@types/node": "^26.0.1",
+    "tsup": "^8.5.1",
+    "tsx": "^4.22.4",
+    "typescript": "^6.0.3"
+  },
+  "dependencies": {
+    "fastify": "^5.9.0",
+    "zod": "^4.4.3"
+  }
+}
